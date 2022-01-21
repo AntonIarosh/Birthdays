@@ -1,0 +1,20 @@
+Orlov G.G.
+1996-1-25
+friend
+true
+4
+Petrov K.K.
+1990-4-5
+friend
+false
+5
+Volkov V.V.
+1991-5-6
+friend
+false
+6
+Ivanov I.I.
+1996-1-20
+friend
+true
+7
